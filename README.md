@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Raheem Akapo 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · AI Agent Systems · Cloud & DevOps · Automation Engineer · Lagos, Nigeria 🇳🇬</b>
+  <b>Software Engineer · AI Agent Systems · Cloud & DevOps · Automation Engineer · Lagos, Nigeria 🇳🇬</b>
 </p>
 
 <p align="center">
