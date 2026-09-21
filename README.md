@@ -17,11 +17,12 @@
 I'm a Software Engineer and Systems Engineering Student of the University of Lagos from Lagos, Nigeria, with a strong focus on **Python Flask & FastAPI** for building scalable backend systems. I love solving real-world problems through software and creating real impact.
 
 - 🏢 Interned at **Wild Fusion Digital Center**, Lagos
-- 💻 4x Hackathon Winner
-- 🤖 Building AI-powered, real-world applications with **Flask, FastAPI, React, NextJs, Claude, and Gemini**
+- 🏢 Interning at **MTN Nigeria**, Lagos
+- 💻 5x Hackathon Winner
+- 🤖 Building AI-powered, real-world applications with **Flask, FastAPI, React and NextJs**
 - ❤ Passionate about reaching the **underserved populace**
-- 🔐 Interested in **security, vault management, and developer tooling**
-- 💬 Ask me about **Python, Flask, FastAPI, React, Supabase, USSD, AI integrations**
+- 🔐 Interested in **security and developer tooling**
+- 💬 Ask me about **Python, Flask, FastAPI, React, AI integrations**
 - 🚀 See my work at **[raheem-akapo.tech](https://raheem-akapo.tech)**
 
 ---
